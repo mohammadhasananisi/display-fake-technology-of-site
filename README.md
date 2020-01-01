@@ -23,14 +23,17 @@ to add just the code in the right place<br/>
 <b>Note the following examples to clear the teleconference</b><br/>
 
 <h1>Python</h1>
-
+<blockquote>
   <pre>
     <code>
     
-                        <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
+<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
  </code>
   </pre>
- 
+</blockquote>
+ <xmp>
+ <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
+ </xmp>
  
  
  
