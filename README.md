@@ -9,7 +9,7 @@ We can add or remove these telecommunications ,
 to add just the code in the right place<br/>
 <b>Note the following examples to clear the teleconference</b><br/>
 
-<h1>Python<h1>
+<h1>Python</h1>
 <pre>
 <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
 </pre>
