@@ -6,6 +6,15 @@ Wappalyzer is a cross-platform utility that uncovers the technologies used on we
 # How can we hide or even add this technology?
 Just put the following code in the right place
 We can add or remove these telecommunications ,
-to add just the code in the right place
-<b>Note the following examples to clear the teleconference</b>
-Add Python,PHP, Perl, Django, Drupal, TYPO3, Joomla, MediaWiki, MODX, PrestaShop, SPIP, Jekyll, React, Hexo, Gatsby, CakePHP, WordPress, phpmyadmin,ruby, nodejs, yii, Laravel, IIS and ASP.NET to site technology
+to add just the code in the right place<br/>
+<b>Note the following examples to clear the teleconference</b><br/>
+
+<h1>Python<h1>
+<pre>
+<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
+</pre>
+ 
+ 
+ 
+ 
+ ,PHP, Perl, Django, Drupal, TYPO3, Joomla, MediaWiki, MODX, PrestaShop, SPIP, Jekyll, React, Hexo, Gatsby, CakePHP, WordPress, phpmyadmin,ruby, nodejs, yii, Laravel, IIS and ASP.NET to site technology
