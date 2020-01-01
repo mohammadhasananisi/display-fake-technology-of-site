@@ -1,3 +1,16 @@
+<style>
+pre{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  margin-bottom: 10px;
+  overflow: auto;
+  width: auto;
+  padding: 5px;
+  background-color: #eee;
+  width: 650px!ie7;
+  padding-bottom: 20px!ie7;
+  max-height: 600px;
+}
+</style>
 # Technology lookup
 
 Identify technology on websites
@@ -13,7 +26,8 @@ to add just the code in the right place<br/>
 <blockquote>
   <pre>
     <code>
-<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
+    
+                        <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
  </code>
   </pre>
 </blockquote>
