@@ -25,7 +25,7 @@ to add just the code in the right place<br/>
 <h1>Python</h1>
 
   <pre>
-  `<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">`
+  <span><input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq"></span>
 
   </pre>
 
