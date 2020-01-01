@@ -24,7 +24,7 @@ to add just the code in the right place<br/>
 
 <h1>Python</h1>
 <blockquote>
-  <pre>
+  <pre style="font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;margin-bottom: 10px;overflow: auto;width: auto;padding: 5px;background-color: #eee;width: 650px!ie7;padding-bottom: 20px!ie7;max-height: 600px;">
     <code>
     
 <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
@@ -33,6 +33,12 @@ to add just the code in the right place<br/>
 </blockquote>
 
 
+
+  <pre style="font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;margin-bottom: 10px;overflow: auto;width: auto;padding: 5px;background-color: #eee;width: 650px!ie7;padding-bottom: 20px!ie7;max-height: 600px;">
+
+<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
+
+  </pre>
  
  
  
