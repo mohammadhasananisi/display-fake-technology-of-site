@@ -10,49 +10,138 @@ We can add or remove these telecommunications ,
 to add just the code in the right place<br/>
 <b>Note the following examples to clear the teleconference</b><br/>
 <br/>
+
+# The code used to replace the technology can't be found here because it clears Github but I have pasted each technology code into a separate file
 <div>
-<h1>Python Django</h1>
+<h2>Python Django</h2>
 This code cannot be displayed here Click <a href="./python_wappalyzer.html">here</a> to see this link
 
-<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
 </div>
 
-
-
 <div>
-<h1>Perl</h1>
+    <h2>Perl</h2>
+    This code cannot be displayed here Click <a href="./Perl_wappalyzer.html">here</a> to see this link
 
-<!-- for perl -->
-<pre>
-<div style="display: none;">
-    <form action="/cgi-bin/koha/opac-user.pl" method="post" name="auth" id="modalAuth"><div class="modal-body"><input type="hidden" name="koha_login_context" value="opac" /><fieldset class="brief">
-    <label for="muserid">username :</label><input type="text" id="muserid" name="userid" />
-    <label for="mpassword">password:</label><input type="password" id="mpassword" name="password" />
-    <div id="forgotpassword-modal"><a href="/cgi-bin/koha/opac-password-recovery.pl"></a></div></fieldset></div><div class="modal-footer"><input type="submit" value="login" class="btn btn-primary" /></div></form> </div>
-<!-- end -->
-</pre>
 </div> 
 
+<div>
+    <h2>Ruby</h2>
+    This code cannot be displayed here Click <a href="./ruby_wappalyzer.html">here</a> to see this link
+    
+</div>
 
 <div>
-    <h1>Drupal Cms</h1>
-    <pre>
-        <meta name="generator" content="Drupal 1600000.9.10 (https://www.drupal.org)" />
-    </pre>
+    <h2>Nodejs</h2>
+    This code cannot be displayed here Click <a href="./nodejs_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>Drupal Cms</h2>
+    This code cannot be displayed here Click <a href="./Drupal_wappalyzer.html">here</a> to see this link
+
 </div>
 
 
 <div>
-    <h1>TYPO3 Cms</h1>
-    <pre>
-        <meta name="generator" content="TYPO3 CMS 1600000.9.10" />
-    </pre>
+    <h2>TYPO3 CMS</h2>
+    This code cannot be displayed here Click <a href="./TYPO3_wappalyzer.html">here</a> to see this link
+
 </div>
 
 <div>
-    <h1>Joomla</h1>
-    <pre>
-        <meta name="generator" content="Joomla! 1600000.9.10 - Open Source Content Management" />
-    </pre>
+    <h2>WordPress</h2>
+    This code cannot be displayed here Click <a href="./WordPress_wappalyzer.html">here</a> to see this link
+    
 </div>
-, Joomla, MediaWiki, MODX, PrestaShop, SPIP, Jekyll, React, Hexo, Gatsby, CakePHP, WordPress, phpmyadmin,ruby, nodejs, yii, Laravel, IIS and ASP.NET to site technology
+
+<div>
+    <h2>Joomla CMS</h2>
+    This code cannot be displayed here Click <a href="./Joomla_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>Joomla CMS</h2>
+    This code cannot be displayed here Click <a href="./Joomla_wappalyzer.html">here</a> to see this link
+
+</div>
+
+
+<div>
+    <h2>Wikis CMS</h2>
+    This code cannot be displayed here Click <a href="./Wikis_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>MODX CMS</h2>
+    This code cannot be displayed here Click <a href="./MODX_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>PrestaShop CMS</h2>
+    This code cannot be displayed here Click <a href="./PrestaShop_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>SPIP CMS</h2>
+    This code cannot be displayed here Click <a href="./SPIP_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>Jekyll</h2>
+    This code cannot be displayed here Click <a href="./Jekyll_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>React</h2>
+    This code cannot be displayed here Click <a href="./React_wappalyzer.html">here</a> to see this link
+
+</div>
+
+<div>
+    <h2>Hexo</h2>
+    This code cannot be displayed here Click <a href="./Hexo_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>Gatsby</h2>
+    This code cannot be displayed here Click <a href="./Gatsby_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>CakePHP</h2>
+    This code cannot be displayed here Click <a href="./CakePHP_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>Phpmyadmin</h2>
+    This code cannot be displayed here Click <a href="./phpmyadmin_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>yii</h2>
+    This code cannot be displayed here Click <a href="./yii_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>Laravel</h2>
+    This code cannot be displayed here Click <a href="./Laravel_wappalyzer.html">here</a> to see this link
+    
+</div>
+
+<div>
+    <h2>IIS and ASP.NET</h2>
+    This code cannot be displayed here Click <a href="./asp_iis_wappalyzer.html">here</a> to see this link
+
+</div>
