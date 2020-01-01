@@ -24,16 +24,16 @@ to add just the code in the right place<br/>
 
 <h1>Python</h1>
 <blockquote>
+<input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
   <pre>
+  <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
     <code>
     
 <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
  </code>
   </pre>
 </blockquote>
- <xmp>
- <input type="hidden" name="csrfmiddlewaretoken" value="dhLET8KO9DYpu29yAa8NRaOgjCXii0rZvyj7hZg5mWT50b1ojrwJNLAJMDQmLsaq">
- </xmp>
+
  
  
  
