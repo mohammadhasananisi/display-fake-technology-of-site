@@ -14,7 +14,7 @@ to add just the code in the right place<br/>
 
 All Technology
 ----------------
-see [this](./example/index.html) file
+**see [this](./example/index.html) file**
 
 Usage
 -------------------------------------------
